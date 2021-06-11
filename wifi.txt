@@ -1,0 +1,3 @@
+dnzx_test
+dnzx_test_5G
+ES-00083135
